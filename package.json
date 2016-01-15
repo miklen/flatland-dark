@@ -1,9 +1,9 @@
 {
-  "name": "flatland-dark",
+  "name": "flatland-dark-modified",
   "theme": "syntax",
   "version": "0.1.6",
   "private": true,
-  "description": "A Flatland Dark theme",
+  "description": "A Modified Flatland Dark theme",
   "repository": "https://github.com/michaelhelmick/flatland-dark",
   "license": "MIT",
   "engines": {
